@@ -1,0 +1,66 @@
+[
+    {
+      "_id": "1",
+      "price": "$3,505.43",
+      "picture": "https://i.ibb.co/VCzFnvK/bangle1.png",
+      "quantity": 35,
+      "color": "brown",
+      "name": "Bangles"
+    },
+    {
+      "_id": "2",
+      "price": "$2,481.12",
+      "picture": "https://i.ibb.co/tsNfxq1/bangle2.png",
+      "quantity": 20,
+      "color": "blue",
+      "name": "Bangles"
+    },
+    {
+      "_id": "3",
+      "price": "$2,236.77",
+      "picture": "https://i.ibb.co/kBm20tQ/earring1.png",
+      "quantity": 20,
+      "color": "brown",
+      "name": "Earrings"
+    },
+    {
+      "_id": "4",
+      "price": "$1,517.00",
+      "picture": "https://i.ibb.co/JCr1Xmg/earring2.png",
+      "quantity": 33,
+      "color": "blue",
+      "name": "Earrings"
+    },
+    {
+      "_id": "5",
+      "price": "$2,331.76",
+      "picture": "https://i.ibb.co/mhHqXb0/earring3.png",
+      "quantity": 29,
+      "color": "blue",
+      "name": "Earrings"
+    },
+    {
+      "_id": "6",
+      "price": "$3,493.37",
+      "picture": "https://i.ibb.co/8b1nR8f/ring2.png",
+      "quantity": 38,
+      "color": "green",
+      "name": "Rings"
+    },
+    {
+      "_id": "7",
+      "price": "$1,759.78",
+      "picture": "https://i.ibb.co/pw9TpQ0/ring5.png",
+      "quantity": 35,
+      "color": "green",
+      "name": "Rings"
+    },
+    {
+      "_id": "8",
+      "price": "$1,759.78",
+      "picture": "https://i.ibb.co/dLcnfdz/ring4.png",
+      "quantity": 35,
+      "color": "green",
+      "name": "Rings"
+    }
+  ]

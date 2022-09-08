@@ -1,0 +1,37 @@
+
+
+
+
+.ban{
+    
+    width: 50%;
+    /* height: 50%; */
+    background-color: #f2c9e0;
+    
+}
+
+@media only screen and (max-width:576px) {
+    .ban .image{
+        width:50%
+    }
+}
+@media only screen and (min-width:577px) and (max-width:992px) {
+    .ban .image{
+        width:50%
+    }
+}
+@media only screen and (min-width:993px) and (max-width:1200px) {
+    .ban .image{
+        width:50%
+    }
+}
+@media only screen and (min-width:1201px) and (max-width:1400px) {
+    .ban .image{
+        width:50%
+    }
+}
+@media only screen and (min-width:1401px) {
+    .ban .image{
+        width:50%
+    }
+}
