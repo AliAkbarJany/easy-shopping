@@ -40,7 +40,7 @@ const ProductDetail = () => {
         const newCart = [...cart, product]
         setCart(newCart)
 
-        fetch('http://localhost:5000/cart', {
+        fetch(`http://localhost:5000/cart`, {
             method: 'POST',
             headers: {
                 'content-type': 'application/json'
@@ -49,8 +49,8 @@ const ProductDetail = () => {
         })
             .then(res => res.json())
             .then(data => {
-                const newCart = [...cart, product]
-                setCart(newCart)
+                // const newCart = [...cart, product]
+                // setCart(newCart)
                 console.log(data)
             })
     }
